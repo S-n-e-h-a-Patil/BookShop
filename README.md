@@ -1,4 +1,4 @@
-# Book_store
+# BookShop
 
 1. In this project we have used HTML,CSS and Javascript for front 
 end .
